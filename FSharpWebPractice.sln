@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharpWebPractice.WebApi", "FSharpWebPractice.WebApi\FSharpWebPractice.WebApi.fsproj", "{06D65D79-6838-4C0B-B20C-9A511F216278}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06D65D79-6838-4C0B-B20C-9A511F216278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06D65D79-6838-4C0B-B20C-9A511F216278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06D65D79-6838-4C0B-B20C-9A511F216278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06D65D79-6838-4C0B-B20C-9A511F216278}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

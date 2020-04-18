@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$APPLICATION_CONFIG_DIR$/consoles/db" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.3/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.3/system/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_FSharpWebPractice.3564520.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="FSharpWebPractice.WebApi" t="IncludeRecursive">
+        <e p="Controllers" t="Include">
+          <e p="Animals" t="Include">
+            <e p="AnimalRepository.fs" t="Include" />
+            <e p="Animals.fs" t="Include" />
+            <e p="AnimalsController.fs" t="Include" />
+          </e>
+          <e p="WeatherForecastController.fs" t="Include" />
+        </e>
+        <e p="FSharpWebPractice.WebApi.fsproj" t="IncludeRecursive" />
+        <e p="Program.fs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.fs" t="Include" />
+        <e p="WeatherForecast.fs" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+      </e>
+      <e p="FSharpWebPractice.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
